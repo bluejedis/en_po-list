@@ -2,7 +2,7 @@
 - [ ] writing
   - [ ] small
   - [ ] ✒️
-    - [ ] template_sum
+    - [x] template_sum
     - [ ] 历年
       - [ ] g0
         - [ ] 2016
@@ -11,8 +11,8 @@
           - [ ] body
             - [ ] reason
             - [ ] 影响
-            - [ ] measures
-          - [ ] 尾
+            - [x] measures
+          - [x] 尾
         - [ ] 2018
   
   
